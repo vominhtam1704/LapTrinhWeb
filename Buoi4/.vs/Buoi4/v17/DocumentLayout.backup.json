@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Buoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFF36D9-792A-403A-A5B3-09363BAF5633}|Buoi4\\Buoi4.csproj|c:\\web\\buoi4\\buoi4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FFF36D9-792A-403A-A5B3-09363BAF5633}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFF36D9-792A-403A-A5B3-09363BAF5633}|Buoi4\\Buoi4.csproj|c:\\web\\buoi4\\buoi4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FFF36D9-792A-403A-A5B3-09363BAF5633}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\Buoi4\\Buoi4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Web\\Buoi4\\Buoi4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Buoi4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T03:48:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Web\\Buoi4\\Buoi4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Buoi4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Web\\Buoi4\\Buoi4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Buoi4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T05:42:22.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

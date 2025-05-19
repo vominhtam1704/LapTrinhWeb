@@ -1,0 +1,1037 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Buoi4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Buoi4.hqt2dykj97.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\jquery.timepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\mCSB_buttons.html",
+      "PackagePath": "staticwebassets\\css\\mCSB_buttons.html"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\scrollbar.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\fonts\\flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\background\\contact.png",
+      "PackagePath": "staticwebassets\\images\\background\\contact.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\18.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\19.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\20.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\21.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\22.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\23.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\24.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\25.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\26.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\27.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\28.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\28.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\29.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\30.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\30.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\31.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\32.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\32.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\33.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\33.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\icons\\icon-select.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-select.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\icons\\separator.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\separator.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\10.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\11.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\12.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\main-slider\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\9.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\nav-logo.png",
+      "PackagePath": "staticwebassets\\images\\nav-logo.png"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\interior.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\interior.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\mission.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\mission.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-10.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-11.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-12.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-13.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-14.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-15.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-16.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-16.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\news-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-9.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\paypall.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\paypall.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-10.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-11.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-12.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-13.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-14.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-15.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-16.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-16.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-17.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-17.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-18.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-18.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-19.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-19.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-20.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-20.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-21.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-21.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-22.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-22.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-23.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-23.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-24.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-24.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-25.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-25.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-26.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-26.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-27.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-27.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-28.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-28.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-29.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-29.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-7.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-8.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\service-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-9.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\story.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\story.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\video-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\video-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\images\\resource\\video-img.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\video-img.jpg"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\appear.js",
+      "PackagePath": "staticwebassets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\scrollbar.js",
+      "PackagePath": "staticwebassets\\js\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\validate.js",
+      "PackagePath": "staticwebassets\\js\\validate.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Web\\Buoi4\\Buoi4\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Buoi4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Buoi4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Buoi4.props",
+      "PackagePath": "build\\Buoi4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Buoi4.props",
+      "PackagePath": "buildMultiTargeting\\Buoi4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Buoi4.props",
+      "PackagePath": "buildTransitive\\Buoi4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
