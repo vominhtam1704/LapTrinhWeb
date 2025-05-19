@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ungdungdautien.Models.SanPhamViewModel
+@{
+    ViewData["Title"] = "Thông tin sản phẩm";
+
+}
+<h2>Thông tin sản phẩm</h2>
+
+<div>
+    <p><strong>Tên sản phẩm:</strong> @Model.TenSanPham</p>
+    <p><strong>Giá bán:</strong> @Model.GiaBan.ToString("N0") VND</p>
+    <p><strong>Ảnh mô tả:</strong></p>
+    <img src="@Model.AnhMoTa" alt="Ảnh sản phẩm" style="width:300px; height:auto;" />
+</div>

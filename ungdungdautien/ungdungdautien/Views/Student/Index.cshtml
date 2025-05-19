@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ungdungdautien.Models.Student
+@{
+    ViewData["Title"] = "Đăng ký chuyên ngành";
+}
+<h2>Đăng ký chuyên ngành</h2>
+
+<form asp-action="ShowKQ" method="post">
+    <div>
+        <label>MSSV:</label>
+        <input asp-for="MSSV" class="form-control" />
+    </div>
+    <div>
+        <label>Họ tên:</label>
+        <input asp-for="FullName" class="form-control" />
+    </div>
+    <div>
+        <label>Điểm TB:</label>
+        <input asp-for="DiemTB" class="form-control" type="number" step="0.01" />
+    </div>
+    <div>
+        <label>Chuyên ngành:</label>
+        <select asp-for="Major" class="form-control">
+            <option value="CNPM">CNPM</option>
+            <option value="HTTT">HTTT</option>
+            <option value="ANM">ANM</option>
+            <option value="TTNT">TTNT</option>
+            <option value="MMT">MMT</option>
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Đăng ký</button>
+</form>

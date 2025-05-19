@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LaptrinhC#\\ungdungdautien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|c:\\laptrinhc#\\ungdungdautien\\ungdungdautien\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|solutionrelative:ungdungdautien\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|c:\\laptrinhc#\\ungdungdautien\\ungdungdautien\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|solutionrelative:ungdungdautien\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|c:\\laptrinhc#\\ungdungdautien\\ungdungdautien\\views\\sanpham\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6854AA4F-A631-44A2-A57B-398ADB5B7378}|ungdungdautien\\ungdungdautien.csproj|solutionrelative:ungdungdautien\\views\\sanpham\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ungdungdautien\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ungdungdautien\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:17:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiTap2.cshtml",
+              "DocumentMoniker": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Views\\SanPham\\BaiTap2.cshtml",
+              "RelativeDocumentMoniker": "ungdungdautien\\Views\\SanPham\\BaiTap2.cshtml",
+              "ToolTip": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Views\\SanPham\\BaiTap2.cshtml",
+              "RelativeToolTip": "ungdungdautien\\Views\\SanPham\\BaiTap2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:38:18.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ungdungdautien\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\LaptrinhC#\\ungdungdautien\\ungdungdautien\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ungdungdautien\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:36:21.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
