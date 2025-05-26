@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VOMINHTAM_KIEMTRA.props" />
+</Project>

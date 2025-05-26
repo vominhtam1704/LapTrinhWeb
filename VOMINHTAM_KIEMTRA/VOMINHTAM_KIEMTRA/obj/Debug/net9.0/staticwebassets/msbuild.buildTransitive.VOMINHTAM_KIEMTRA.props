@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VOMINHTAM_KIEMTRA.props" />
+</Project>
