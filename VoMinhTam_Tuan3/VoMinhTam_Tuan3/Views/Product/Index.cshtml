@@ -1,0 +1,73 @@
+﻿@model IEnumerable<VoMinhTam_Tuan3.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary mb-4">Danh sách sản phẩm</h2>
+    <form asp-action="Index" method="get" class="mb-4">
+        <div class="row">
+            <div class="col-md-4">
+                <select name="categoryId" class="form-select">
+                    <option value="">-- Xem tất cả --</option>
+                    @foreach (var cat in (SelectList)ViewBag.Categories)
+                    {
+                        <option value="@cat.Value">@cat.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-success">Lọc</button>
+            </div>
+        </div>
+    </form>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="Add" class="btn btn-success mb-3">
+            <i class="bi bi-plus-circle"></i> Thêm sản phẩm mới
+        </a>
+        <a asp-controller="Categories" asp-action="Add" class="btn btn-success mb-3">
+            <i class="bi bi-plus-circle"></i> Thêm danh mục mới
+        </a>
+    }
+    <a asp-controller="Categories" asp-action="Index" class="btn btn-success mb-3">
+        <i class="bi bi-list-ul"></i> Danh sách danh mục
+    </a>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var product in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl"
+                        alt="Ảnh sản phẩm"
+                        class="card-img-top bg-light"
+                        style="height: 200px; object-fit: contain; padding: 10px;" />
+                    }
+                    else
+                    {
+                        <div class="text-center p-4 text-muted">Không có ảnh</div>
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="fw-bold text-danger">Giá: @product.Price.ToString("N0") đ</p>
+                        <p class="text-muted">Loại: @(product.Category?.Name ?? "Không có loại")</p>
+                        <div class="d-grid gap-2">
+                            <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-sm btn-info text-white">Chi tiết</a>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-sm btn-warning text-white">Sửa</a>
+                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger">Xóa</a>
+
+                            }             
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,20 @@
+﻿@model VoMinhTam_Tuan3.Models.Category
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<div class="container mt-5">
+    <h2 class="text-danger mb-4">Xóa danh mục</h2>
+
+    <div class="alert alert-warning">
+        <strong>Bạn có chắc chắn muốn xóa?</strong>
+        <p>ID: <strong>@Model.Id</strong></p>
+        <p>Tên: <strong>@Model.Name</strong></p>
+    </div>
+
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Hủy</a>
+    </form>
+</div>

@@ -1,0 +1,80 @@
+﻿@model VoMinhTam_Tuan3.Models.Product
+@{
+    ViewData["Title"] = "Chỉnh sửa sản phẩm";
+}
+
+<div class="container mt-5">
+    <h2 class="text-primary mb-4">Chỉnh sửa sản phẩm</h2>
+
+    <form asp-action="Update" method="post" enctype="multipart/form-data" class="card p-4 shadow">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label">Giá</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Mô tả</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label">Loại sản phẩm</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <hr />
+        <h5>Ảnh đại diện hiện tại</h5>
+        <div class="mb-3">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" class="img-thumbnail mb-2" style="max-width: 200px;" />
+            }
+            <label class="form-label">Thay ảnh đại diện (tùy chọn)</label>
+            <input type="file" name="imageUrl" class="form-control" />
+        </div>
+
+        @if (Model.Images != null && Model.Images.Count > 0)
+        {
+            <hr />
+            <h5>Ảnh phụ hiện tại</h5>
+            <div class="row">
+                @for (int i = 0; i < Model.Images.Count; i++)
+                {
+                    <div class="col-md-4 text-center mb-3">
+                        <input type="hidden" name="ExistingImageIds" value="@Model.Images[i].Id" />
+                        <img src="@Model.Images[i].Url" class="img-thumbnail mb-1" style="height: 100px; object-fit: contain;" />
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="DeletedImageIds" value="@Model.Images[i].Id" id="delete_@i" />
+                            <label class="form-check-label" for="delete_@i">Xoá ảnh này</label>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+
+        <div class="mb-3">
+            <label class="form-label">Thêm ảnh phụ mới</label>
+            <input type="file" name="newImages" class="form-control" multiple />
+        </div>
+
+        <div class="d-flex justify-content-between mt-4">
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-save"></i> Lưu thay đổi
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Quay lại danh sách
+            </a>
+        </div>
+    </form>
+</div>

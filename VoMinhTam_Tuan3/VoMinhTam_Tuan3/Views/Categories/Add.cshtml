@@ -1,0 +1,27 @@
+﻿@model VoMinhTam_Tuan3.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm Danh Mục";
+}
+
+<div class="container mt-5">
+    <h2 class="text-primary mb-4">Thêm danh mục mới</h2>
+
+    <form asp-action="Add" method="post" class="border p-4 shadow-sm rounded bg-light">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Lưu</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Quay lại</a>
+        <a asp-controller="Categories" asp-action="Index" class="btn btn-outline-secondary me-2">
+            <i class="bi bi-tags"></i> Danh sách danh mục
+        </a>
+    </form>
+    <a asp-action="Index" asp-controller="Product" class="btn btn-secondary">
+        <i class="bi bi-arrow-left"></i> Quay lại danh sách sản phẩm
+    </a>
+
+</div>
