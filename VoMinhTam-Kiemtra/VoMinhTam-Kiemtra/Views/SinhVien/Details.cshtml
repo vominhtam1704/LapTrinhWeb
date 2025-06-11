@@ -1,0 +1,42 @@
+﻿@model VoMinhTam_Kiemtra.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-info text-white">
+            <h4>Thông tin chi tiết sinh viên</h4>
+        </div>
+        <div class="card-body">
+
+            <table class="table table-bordered">
+                <tr>
+                    <th>Mã sinh viên</th>
+                    <td>@Model.MaSV</td>
+                </tr>
+                <tr>
+                    <th>Họ tên</th>
+                    <td>@Model.HoTen</td>
+                </tr>
+                <tr>
+                    <th>Giới tính</th>
+                    <td>@Model.GioiTinh</td>
+                </tr>
+                <tr>
+                    <th>Ngày sinh</th>
+                    <td>@Model.NgaySinh?.ToString("dd/MM/yyyy")</td>
+                </tr>
+                <tr>
+                    <th>Hình ảnh</th>
+                    <td><img src="@Url.Content(Model.Hinh)" width="150" class="img-thumbnail" /></td>
+                </tr>
+                <tr>
+                    <th>Ngành</th>
+                    <td>@Model.NganhHoc?.TenNganh</td>
+                </tr>
+            </table>
+
+            <a href="/SinhVien/Edit/@Model.MaSV" class="btn btn-warning">Sửa</a>
+            <a href="/SinhVien/Delete/@Model.MaSV" class="btn btn-danger">Xoá</a>
+            <a href="/SinhVien" class="btn btn-secondary">Quay lại</a>
+        </div>
+    </div>
+</div>

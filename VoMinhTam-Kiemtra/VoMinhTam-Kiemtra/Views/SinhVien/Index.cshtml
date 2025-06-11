@@ -1,0 +1,52 @@
+﻿@model List<VoMinhTam_Kiemtra.Models.SinhVien>
+
+@{
+    ViewBag.Title = "Danh sách sinh viên";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>Danh sách Sinh Viên</h4>
+        </div>
+        <div class="card-body">
+            <p>
+                <a href="/SinhVien/Create" class="btn btn-success">+ Thêm mới</a>
+            </p>
+
+            <table class="table table-bordered table-striped text-center align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Mã SV</th>
+                        <th>Họ Tên</th>
+                        <th>Giới Tính</th>
+                        <th>Ngày Sinh</th>
+                        <th>Hình</th>
+                        <th>Ngành</th>
+                        <th>Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var sv in Model)
+                    {
+                        <tr>
+                            <td>@sv.MaSV</td>
+                            <td>@sv.HoTen</td>
+                            <td>@sv.GioiTinh</td>
+                            <td>@sv.NgaySinh?.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                <img src="@Url.Content(sv.Hinh)" alt="ảnh" width="80" height="100" style="object-fit: cover;" />
+                            </td>
+                            <td>@sv.NganhHoc?.TenNganh</td>
+                            <td>
+                                <a href="/SinhVien/Details/@sv.MaSV" class="btn btn-info btn-sm">Xem</a>
+                                <a href="/SinhVien/Edit/@sv.MaSV" class="btn btn-warning btn-sm">Sửa</a>
+                                <a href="/SinhVien/Delete/@sv.MaSV" class="btn btn-danger btn-sm">Xoá</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

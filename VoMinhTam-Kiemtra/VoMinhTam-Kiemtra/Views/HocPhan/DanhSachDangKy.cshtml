@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Học phần đã đăng ký";
+    var ds = ViewBag.DanhSach as dynamic;
+}
+
+<div class="container mt-4">
+    <h2>Danh sách học phần đã đăng ký</h2>
+
+    @if (TempData["ThongBao"] != null)
+    {
+        <div class="alert alert-success">@TempData["ThongBao"]</div>
+    }
+
+    @if (ds != null && ds.Count > 0)
+    {
+        foreach (var item in ds)
+        {
+            <div class="card mb-4 shadow">
+                <div class="card-header bg-primary text-white">
+                    <strong>Mã ĐK:</strong> @item.MaDK |
+                    <strong>Ngày đăng ký:</strong> @(((DateTime)item.NgayDK).ToString("dd/MM/yyyy"))
+                </div>
+                <div class="card-body">
+                    <table class="table table-bordered text-center">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Mã HP</th>
+                                <th>Tên học phần</th>
+                                <th>Số tín chỉ</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var hp in item.ChiTiet)
+                            {
+                                <tr>
+                                    <td>@hp.MaHP</td>
+                                    <td>@hp.TenHP</td>
+                                    <td>@hp.SoTinChi</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-warning">Bạn chưa đăng ký học phần nào.</div>
+    }
+
+    <a class="btn btn-secondary" asp-action="Index">Quay lại danh sách học phần</a>
+</div>

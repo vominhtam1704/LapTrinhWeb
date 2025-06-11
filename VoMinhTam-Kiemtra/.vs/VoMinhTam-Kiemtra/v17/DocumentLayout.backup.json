@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\VoMinhTam-Kiemtra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\hocphan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\hocphan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\hocphan\\danhsachdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\hocphan\\danhsachdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\hocphan\\giodangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\hocphan\\giodangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\chitietdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\chitietdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\test1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\dangnhapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\dangnhapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\models\\nganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\models\\nganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|c:\\web\\vominhtam-kiemtra\\vominhtam-kiemtra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1448753C-9B45-4C02-B34F-42F68FBEB080}|VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra.csproj|solutionrelative:vominhtam-kiemtra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachDangKy.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\HocPhan\\DanhSachDangKy.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:16:44.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietDangKy.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\ChiTietDangKy.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\ChiTietDangKy.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\ChiTietDangKy.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\ChiTietDangKy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:10:37.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\DangKy.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\DangKy.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\DangKy.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\DangKy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:10:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioDangKy.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\GioDangKy.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\HocPhan\\GioDangKy.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\GioDangKy.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\HocPhan\\GioDangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:05:55.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test1Context.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\Test1Context.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\Test1Context.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\Test1Context.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\Test1Context.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:03:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocPhanController.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\HocPhanController.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Controllers\\HocPhanController.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\HocPhanController.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Controllers\\HocPhanController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:57:17.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HocPhan.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\HocPhan.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\HocPhan.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\HocPhan.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\HocPhan.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:59:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\Index.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\HocPhan\\Index.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\HocPhan\\Index.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\HocPhan\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:59:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:02:56.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:52:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:51:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangNhapViewModel.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\DangNhapViewModel.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\DangNhapViewModel.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\DangNhapViewModel.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\DangNhapViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:50:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:33:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwI4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:46:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Details.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Details.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:17:32.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Delete.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:16:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Edit.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Edit.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:15:53.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Program.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Program.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Program.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:04:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:15:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\SinhVien.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\SinhVien.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:02:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:08:37.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\appsettings.json",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\appsettings.json",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\appsettings.json",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T06:03:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NganhHoc.cs",
+              "DocumentMoniker": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\NganhHoc.cs",
+              "RelativeDocumentMoniker": "VoMinhTam-Kiemtra\\Models\\NganhHoc.cs",
+              "ToolTip": "C:\\Web\\VoMinhTam-Kiemtra\\VoMinhTam-Kiemtra\\Models\\NganhHoc.cs",
+              "RelativeToolTip": "VoMinhTam-Kiemtra\\Models\\NganhHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:03:11.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

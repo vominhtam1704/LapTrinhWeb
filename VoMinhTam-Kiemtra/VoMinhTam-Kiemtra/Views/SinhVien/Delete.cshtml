@@ -1,0 +1,30 @@
+﻿@model VoMinhTam_Kiemtra.Models.SinhVien
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-danger text-white">
+            <h4>Xoá sinh viên</h4>
+        </div>
+        <div class="card-body">
+            <p>Bạn có chắc chắn muốn xoá sinh viên: <strong>@Model.HoTen</strong>?</p>
+
+            <dl class="row">
+                <dt class="col-sm-3">Mã SV</dt>
+                <dd class="col-sm-9">@Model.MaSV</dd>
+
+                <dt class="col-sm-3">Giới tính</dt>
+                <dd class="col-sm-9">@Model.GioiTinh</dd>
+
+                <dt class="col-sm-3">Ngày sinh</dt>
+                <dd class="col-sm-9">@Model.NgaySinh?.ToString("dd/MM/yyyy")</dd>
+            </dl>
+
+            <!-- ✅ Gửi về đúng Action là "Delete" (không dùng DeleteConfirmed) -->
+            <form asp-action="Delete" method="post">
+                <input type="hidden" asp-for="MaSV" />
+                <button type="submit" class="btn btn-danger">Xác nhận xoá</button>
+                <a href="/SinhVien" class="btn btn-secondary">Quay lại</a>
+            </form>
+        </div>
+    </div>
+</div>

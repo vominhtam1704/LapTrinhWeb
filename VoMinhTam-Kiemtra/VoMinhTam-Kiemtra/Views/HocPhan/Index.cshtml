@@ -1,0 +1,47 @@
+﻿@model List<VoMinhTam_Kiemtra.Models.HocPhan>
+@{
+    ViewBag.Title = "Danh sách học phần";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>📚 Danh sách Học Phần</h4>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered table-striped text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Mã HP</th>
+                        <th>Tên học phần</th>
+                        <th>Số tín chỉ</th>
+                        <th>Số lượng còn lại</th> <!-- ✅ Thêm cột số lượng -->
+                        <th>Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var hp in Model)
+                    {
+                        <tr>
+                            <td>@hp.MaHP</td>
+                            <td>@hp.TenHP</td>
+                            <td>@hp.SoTinChi</td>
+                            <td>@hp.SoLuong</td> <!-- ✅ Hiển thị số lượng -->
+
+                            <td>
+                                @if (hp.SoLuong > 0)
+                                {
+                                    <a class="btn btn-success btn-sm" asp-action="ThemVaoGio" asp-route-id="@hp.MaHP">Đăng ký</a>
+                                }
+                                else
+                                {
+                                    <span class="text-danger fw-bold">Hết chỗ</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

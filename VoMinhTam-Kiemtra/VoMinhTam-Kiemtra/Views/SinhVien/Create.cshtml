@@ -1,0 +1,72 @@
+﻿@model VoMinhTam_Kiemtra.Models.SinhVien
+@{
+    ViewBag.Title = "Thêm sinh viên";
+    var nganhList = ViewBag.NganhList as List<VoMinhTam_Kiemtra.Models.NganhHoc>;
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-success text-white">
+            <h4>Thêm sinh viên</h4>
+        </div>
+        <div class="card-body">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <p class="text-danger">@ViewBag.Loi</p>
+
+            <!-- ✅ Đây là form THÊM -->
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label">Mã SV</label>
+                    <input asp-for="MaSV" class="form-control" />
+                    <span asp-validation-for="MaSV" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Họ tên</label>
+                    <input asp-for="HoTen" class="form-control" />
+                    <span asp-validation-for="HoTen" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Giới tính</label>
+                    <select asp-for="GioiTinh" class="form-select">
+                        <option>Nam</option>
+                        <option>Nữ</option>
+                    </select>
+                    <span asp-validation-for="GioiTinh" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Ngày sinh</label>
+                    <input asp-for="NgaySinh" type="date" class="form-control" />
+                    <span asp-validation-for="NgaySinh" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Hình ảnh (upload)</label>
+                    <input type="file" name="HinhUpload" class="form-control" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Ngành</label>
+                    <select asp-for="MaNganh" class="form-select">
+                        @foreach (var item in nganhList)
+                        {
+                            <option value="@item.MaNganh">@item.TenNganh</option>
+                        }
+                    </select>
+                    <span asp-validation-for="MaNganh" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success">Lưu</button>
+                <a href="/SinhVien" class="btn btn-secondary">Quay lại</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
